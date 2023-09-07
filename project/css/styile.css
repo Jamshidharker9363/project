@@ -1,0 +1,16 @@
+.ramka{
+  width: 1140px;
+  height: 2080px;
+  background: rgba(0, 0, 0, 0.4);
+}
+.logo{
+  width: 176px;
+  height: 40px;
+  margin-left: calc(50% - 176px/2);
+  margin-top: 60px;
+}
+.sitenav__link{
+  font-family: Montserrat ,Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  font-weight: 400;
+}
